@@ -1,3 +1,14 @@
+## Table of Contents
+- [Description](#description)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Requirements](#requirements)
+- [Setup Instructions](#setup-instructions)
+- [Usage](#usage)
+- [Preview](#preview)
+- [License](#license)
+- [Contributors](#contributors)
+
 # NoteMate
 
 NoteMate is a powerful and intuitive platform designed to enhance your note-taking experience. Whether you're a student, professional, or just someone who loves to stay organized, NoteMate is here to simplify the way you manage your notes.
@@ -32,6 +43,18 @@ NoteMate is a powerful and intuitive platform designed to enhance your note-taki
 
 - Node.js (v12.0.0 or higher)
 - npm (v6.0.0 or higher)
+
+## Setup Instructions
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/note_mate-master.git
+        Navigate to the project directory:
+        cd note_mate-master
+        Install dependencies:
+        npm install
+        Start the development server:
+        npm start
+        Open the app in your browser at http://localhost:3000.
 
 ## Usage
 Once the application is running, you can navigate through the different routes to experience the functionalities:
